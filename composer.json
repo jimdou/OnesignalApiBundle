@@ -1,15 +1,15 @@
 {
-  "name": "dizda/onesignal-api-bundle",
+  "name": "jimdou/onesignal-api-bundle",
   "type": "library",
   "description": "OneSignal API Bundle for Symfony.",
-  "keywords": ["onesignal", "api", "symfony", "norkunas"],
+  "keywords": ["onesignal", "api", "symfony", "norkunas", "dizda"],
   "homepage": "https://github.com/dizda",
   "license": "MIT",
   "authors": [
     {
-      "name": "Jonathan Dizdarevic",
-      "email": "dizzda@gmail.com",
-      "homepage": "https://github.com/dizda"
+      "name": "Jimmy Douieb",
+      "email": "yebdou@gmail.com",
+      "homepage": "https://github.com/jimdou"
     }
   ],
   "require": {
@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Dizda\\OnesignalApiBundle\\": "src"
+      "Jimdou\\OnesignalApiBundle\\": "src"
     }
   },
   "minimum-stability": "dev"
